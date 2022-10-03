@@ -1,1 +1,1 @@
-# PhytonHw
+print("Hello world")
