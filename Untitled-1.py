@@ -1,6 +1,7 @@
 print("Hello world")
-p=int(input("your age "))
-p=p+1000
-while p<2022:
-    p=p-1
-print(p)
+z=0
+Vozrast=int(input("your age "))
+while Vozrast<18:
+    Vozrast=Vozrast+1
+    z=z+1
+print(z)
