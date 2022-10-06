@@ -6,3 +6,4 @@ while Vozrast<18:
     z=z+1
 print(z)
 print("ne lox ")
+print("artur krutoy ")
