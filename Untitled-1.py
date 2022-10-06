@@ -5,3 +5,4 @@ while Vozrast<18:
     Vozrast=Vozrast+1
     z=z+1
 print(z)
+print("ne lox ")
